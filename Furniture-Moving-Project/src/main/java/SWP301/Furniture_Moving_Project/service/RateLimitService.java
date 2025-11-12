@@ -1,7 +1,7 @@
 package SWP301.Furniture_Moving_Project.service;
 
-import SWP301.Furniture_Moving_Project.DTO.RateLimitConfigDto;
-import SWP301.Furniture_Moving_Project.DTO.RateLimitStatusDto;
+import SWP301.Furniture_Moving_Project.dto.RateLimitConfigDto;
+import SWP301.Furniture_Moving_Project.dto.RateLimitStatusDto;
 import SWP301.Furniture_Moving_Project.model.User;
 import SWP301.Furniture_Moving_Project.model.UserRateLimit;
 import SWP301.Furniture_Moving_Project.model.UserRateLimitLog;

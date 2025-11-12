@@ -1,6 +1,6 @@
 package SWP301.Furniture_Moving_Project.service;
 
-import SWP301.Furniture_Moving_Project.DTO.UserHistoryDto;
+import SWP301.Furniture_Moving_Project.dto.UserHistoryDto;
 import SWP301.Furniture_Moving_Project.model.CustomRevisionEntity;
 import SWP301.Furniture_Moving_Project.model.User;
 import jakarta.persistence.EntityManager;
